@@ -1,5 +1,5 @@
 osccontrol-light - An audio plugin that speaks OSC
-===============================================
+==================================================
 
 This software enables sending and receiving of Open Sound Control
 (OSC) messages from audio plugin host environments such as digital
@@ -97,7 +97,8 @@ Compilation
 Build the standalone application and plugin for your platform by
 exporting the project files for your favorite IDE using the
 [Projucer](https://juce.com/discover/projucer) application that ships
-with JUCE.
+with JUCE. Specific build instructions for different platforms can be
+found in [here](Documentation/BuildInstructions.md).
 
 
 Licensing
